@@ -36,11 +36,11 @@ h1 {
 }
 
 /* image container */
-.image-container {
+.imageContainer {
   margin: 10px 30%;
 }
 
-.image-container img {
+.imageContainer img {
   width: 100%;
   margin-top: 5px;
 }
